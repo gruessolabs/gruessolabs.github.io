@@ -1,7 +1,7 @@
 # Site settings
 title: Gruesso Labs
 email: info@gruessolabs.com
-description: Welcome to Gruesso Labs
+description: Welcome to Gruesso Labs. Website development, e-commerce, product management, and suppply chain solutions. Don't build your next product alone.
 baseurl: "gruessolabs.com" # the subpath of your site, e.g. /blog/
 url: "gruessolabs.com" # the base hostname & protocol for your site
 
